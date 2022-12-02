@@ -1,0 +1,11 @@
+Data that's used in the paper: 'Towards Idea Mining: Problem-Solution Phrase Extraction from Text'
+Link: https://link.springer.com/chapter/10.1007/978-3-031-22137-8_1
+
+@inproceedings{liu2022towards,
+  title={Towards Idea Mining: Problem-Solution Phrase Extraction from Text},
+  author={Liu, Haixia and Brailsford, Tim and Goulding, James and Maul, Tomas and Tan, Tao and Chaudhuri, Debanjan},
+  booktitle={International Conference on Advanced Data Mining and Applications},
+  pages={3--14},
+  year={2022},
+  organization={Springer}
+}
